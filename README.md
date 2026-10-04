@@ -29,7 +29,7 @@ README.md           <- this file
 
 ---
 
-## 🧠 How the "memory" works (in plain terms)
+##  How the "memory" works (in plain terms)
 
 By itself, an AI model has no memory — every message you send is treated
 like the very first message it's ever seen. To fake "memory", the app:
@@ -43,7 +43,7 @@ This is handled for you automatically by LangChain's `ConversationBufferMemory`.
 
 ---
 
-## 🚀 How to run it on your own computer
+##  How to run it on your own computer
 
 **Step 1 — Get a free Groq API key**
 Go to https://console.groq.com/keys, sign up with just an email (no
@@ -71,7 +71,7 @@ involves math — a small taste of what "AI Agents" are.
 
 ---
 
-## ☁️ How to put this online (deploy it) so anyone can use it
+##  How to put this online (deploy it) so anyone can use it
 
 The easiest free option is **Streamlit Community Cloud**:
 
@@ -111,7 +111,7 @@ The easiest free option is **Streamlit Community Cloud**:
 
 ---
 
-## 📚 Sources used to build this
+##  Sources used to build this
 
 - Reference video (starting point / inspiration for the basic chatbot structure):
   https://youtu.be/KEwTJSsvQI0
