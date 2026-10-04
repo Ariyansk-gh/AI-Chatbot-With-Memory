@@ -123,4 +123,8 @@ The easiest free option is **Streamlit Community Cloud**:
 
 I don't have live web access while writing this, so please double-check
 these links still work and match the latest library versions before
-relying on them — LangChain especially changes its API fairly often.
+relying on them — LangChain especially changes its API fairly often. 
+
+---
+## Author
+Ariyan Shaikh — connect with me on [LinkedIn](https://www.linkedin.com/in/ariyan-shaikh-7553793b1/) or check out my other projects on [GitHub](https://github.com/Ariyansk-gh).
